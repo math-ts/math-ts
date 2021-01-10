@@ -1,6 +1,6 @@
 {
     "name": "@math-ts/arithmetic-mean",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Calculate arithmetic mean",
     "homepage": "https://github.com/math-ts/math-ts",
     "bugs": {
